@@ -40,7 +40,7 @@ https://www.kaggle.com/datasets/evg3n1j/httpparamsdataset
 
 
 ### [Result]
-17/50 Accuracy : 90.868
+17/70 Accuracy : 90.868
 ![img](img/kisa-ai-pyree.png)
 
 
