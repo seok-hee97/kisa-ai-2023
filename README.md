@@ -2,13 +2,13 @@
 (AI-빅데이터 챌린지)   
 
 ### Peformance Metric
-- tfidf-svc 
-![img](img/tfidf-svc-performance.png)
-- tfidf-word-xgboost
-![img](img/tfidf-word-xgboost.png)
+- tfidf-svc        
+![img](img/tfidf-svc-performance.png)     
+- tfidf-word-xgboost      
+![img](img/tfidf-word-xgboost.png)         
 
 ### Result
-17/70 Accuracy : 90.868
+17/70 Accuracy : 90.868         
 ![img](img/kisa-ai-pyree.png)
 
 ### Reference
